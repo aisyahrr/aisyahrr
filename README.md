@@ -46,7 +46,7 @@ Hello! I'm Aisyah Rahmawati, a passionate frontend developer and UI/UX designer 
 
 ### 📫 Let's Connect!
 
-- 📸 Instagram: [@aisyhrr](https://instagram.com/aisyhrr)
+- 📸 Instagram: [@aisyhrr](https://instagram.com/aisyh.rr)
 - 🌐 Portfolio (coming soon)
 - 🔗 Linkedln : [Aisyah Rahmawati](https://www.linkedin.com/in/aisyhrr/)
 - 💌 Reach me via DM or GitHub issues!
